@@ -1,5 +1,6 @@
 # Ex-01_DS_Data_Cleansing
 
+#### Reg.No: 212221040077 <br> Date: 
 
 ## AIM
 To read the given data and perform data cleaning and save the cleaned data to a file. 
@@ -78,9 +79,9 @@ df.info()
 <br><br>
 
 <img width="357" alt="image" src="https://github.com/knight7080/ODD2023-Datascience-Ex01/assets/88542035/e553adbb-04cd-4057-927f-35256241cf90">
-<br><br>
+<br><br><br><br><br><br><br><br>
 
-
+<br><br><br><br>
 # RESULT
 
 Hence the above code is ran and the output is verified.
